@@ -1,0 +1,29 @@
+# Build outputs
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+
+# Runtime data
+data/*.img
+*.log
+tmp/
+
+# IDE and OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Course reference documents are kept locally, not published
+*.pdf
+
