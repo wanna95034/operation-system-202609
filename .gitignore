@@ -27,3 +27,6 @@ Thumbs.db
 # Course reference documents are kept locally, not published
 *.pdf
 
+# Local ECC skill bundle and Codex discovery link (not published)
+/.skill/
+/.agents/skills/
